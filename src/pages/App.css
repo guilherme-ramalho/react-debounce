@@ -1,0 +1,47 @@
+.app {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  margin: 15%;
+}
+
+.logo {
+  height: 40vmin;
+}
+
+input {
+  border-radius: 5px;
+  height: 40px;
+  border: none;
+  font-size: 22px;
+  text-align: center;
+}
+
+label {
+  font-size: 26px;
+}
+
+.logo {
+  height: 20vmin;
+  pointer-events: none;
+}
+
+li {
+  font-size: 22px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

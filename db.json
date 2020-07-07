@@ -1,0 +1,24 @@
+{
+  "artists": [
+    { "id": 1, "name": "Iron Maiden" },
+    { "id": 2, "name": "Michael Jackson" },
+    { "id": 3, "name": "Metallica" },
+    { "id": 4, "name": "Angra" },
+    { "id": 5, "name": "Led Zeppelin" },
+    { "id": 6, "name": "Bread" },
+    { "id": 7, "name": "Anthrax" },
+    { "id": 8, "name": "Slayer" },
+    { "id": 9, "name": "Sepultura" },
+    { "id": 10, "name": "Earth, Wind and Fire" },
+    { "id": 11, "name": "Stevie Wonder" },
+    { "id": 12, "name": "Motörhead" },
+    { "id": 13, "name": "The Beatles" },
+    { "id": 14, "name": "Rush" },
+    { "id": 15, "name": "Queen" },
+    { "id": 16, "name": "AC/DC" },
+    { "id": 17, "name": "Aerosmith" },
+    { "id": 18, "name": "Ratos de Porão" },
+    { "id": 19, "name": "Pantera" },
+    { "id": 20, "name": "Yes" }
+  ]
+}
